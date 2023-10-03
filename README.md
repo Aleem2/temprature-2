@@ -1,4 +1,4 @@
-
+# This project attempts to use Microbit as a thermometer when button A is pressed.
 > Open this page at [https://aleem2.github.io/temprature-2/](https://aleem2.github.io/temprature-2/)
 
 ## Use as Extension
