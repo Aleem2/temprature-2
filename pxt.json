@@ -1,5 +1,5 @@
 {
-    "name": "Temprature 2",
+    "name": "Temprature Microbit",
     "description": "",
     "dependencies": {
         "core": "*",
